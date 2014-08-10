@@ -7,7 +7,7 @@ If you have two fractions, you can add them like this:
 This library does the opposite:
 
     import break_fract
-    break_fract.break_fract(7234823, 92374893)
+    break_fract.break_fract(7234823, 92374893) # or "7234823/92374893"
     # gives
     # [Fraction(-1, 9), Fraction(2, 169), Fraction(10786, 60733)]
 
